@@ -1,7 +1,6 @@
 
-Here's how it willwork when you're done:
-1. Install Python: Python is usually installed by default on most modern systems. To check what your currently have, open a terminal and run the following command:
-
+Here's how it willwork :
+1. Install Python: 
    ```
    python3 --version
    ```
